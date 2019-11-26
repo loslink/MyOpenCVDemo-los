@@ -1,0 +1,3 @@
+﻿  DetectFace.cpp
+d:\visualstudioworkspace\myopencvdemo\myopencvdemo\detectface\detectface.cpp(162): warning C4715: “DetectFace::detectFace”: 不是所有的控件路径都返回值
+  MyOpenCVDemo.vcxproj -> D:\VisualStudioWorkSpace\MyOpenCVDemo\x64\Debug\MyOpenCVDemo.exe
