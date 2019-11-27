@@ -5,6 +5,7 @@
 #include <iostream>
 #include "AgeGender/AgeGender.h"
 #include "DetectFace/DetectFace.h"
+#include "OpenCVTest.h"
 
 int main()
 {
@@ -12,8 +13,10 @@ int main()
 	//ageGender();
 
 	//脸部检测
-	DetectFace detect = DetectFace();
-	detect.detectFace();
+	/*DetectFace detect = DetectFace();
+	detect.detectFace();*/
+
+	OpenCVTest().playVideo();
 
 	return 0;
 }
