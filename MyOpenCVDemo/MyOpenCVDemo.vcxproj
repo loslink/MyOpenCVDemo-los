@@ -154,12 +154,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Exercise.h" />
+    <ClInclude Include="Exercise4.h" />
     <ClInclude Include="OpenCVTest.h" />
     <ClInclude Include="pch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="AgeGender\AgeGender.cpp" />
     <ClCompile Include="DetectFace\DetectFace.cpp" />
+    <ClCompile Include="Exercise.cpp" />
+    <ClCompile Include="Exercise4.cpp" />
     <ClCompile Include="MyOpenCVDemo.cpp" />
     <ClCompile Include="OpenCVTest.cpp" />
     <ClCompile Include="pch.cpp">

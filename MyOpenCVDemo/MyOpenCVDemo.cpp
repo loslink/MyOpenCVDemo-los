@@ -6,6 +6,8 @@
 #include "AgeGender/AgeGender.h"
 #include "DetectFace/DetectFace.h"
 #include "OpenCVTest.h"
+#include "Exercise.h"
+#include "Exercise4.h"
 
 int main()
 {
@@ -16,7 +18,13 @@ int main()
 	/*DetectFace detect = DetectFace();
 	detect.detectFace();*/
 
-	OpenCVTest().playVideo();
+	//OpenCVTest().playVideo();
+
+	//OpenCVTest().videoToLogPolar();
+
+	//Exercise4().ExerciseMain();
+
+	OpenCVTest().alphaBlendImage();
 
 	return 0;
 }

@@ -21,6 +21,12 @@
     <ClInclude Include="OpenCVTest.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="Exercise.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Exercise4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
@@ -36,6 +42,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="OpenCVTest.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Exercise4.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

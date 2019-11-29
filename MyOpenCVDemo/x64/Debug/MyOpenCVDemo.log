@@ -1,2 +1,7 @@
 ﻿  OpenCVTest.cpp
+d:\visualstudioworkspace\myopencvdemo\myopencvdemo\opencvtest.cpp(157): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
   MyOpenCVDemo.vcxproj -> D:\VisualStudioWorkSpace\MyOpenCVDemo\x64\Debug\MyOpenCVDemo.exe
