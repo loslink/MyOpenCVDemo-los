@@ -8,6 +8,7 @@
 #include "OpenCVTest.h"
 #include "Exercise.h"
 #include "Exercise4.h"
+#include "Exercise5.h"
 
 int main()
 {
@@ -24,7 +25,9 @@ int main()
 
 	//Exercise4().ExerciseMain();
 
-	OpenCVTest().alphaBlendImage();
+	//OpenCVTest().alphaBlendImage();
+
+	Exercise5().ExerciseMain();
 
 	return 0;
 }
